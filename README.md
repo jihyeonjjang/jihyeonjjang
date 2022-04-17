@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello, I'm JiHyeon Jang!👋
+
+
+🌱Studying🌱
+<img src="https://img.shields.io/badge/Swift-FFCA28?style=flat-square&logo=swift&logoColor=FFFFFF"/>
+
+
+<a href="https://velog.io/@jihyeon9975"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
 <!--
 **jihyeonjjang/jihyeonjjang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
