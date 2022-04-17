@@ -2,7 +2,8 @@
 
 
 🌱Studying🌱
-<img src="https://img.shields.io/badge/Swift-FFCA28?style=flat-square&logo=swift&logoColor=FFFFFF"/>
+<br/>
+<img src="https://img.shields.io/badge/Swift-Orange?style=flat-square&logo=swift&logoColor=FFFFFF"/>
 
 
 <a href="https://velog.io/@jihyeon9975"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
