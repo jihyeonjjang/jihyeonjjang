@@ -4,8 +4,8 @@
 
 🌱Studying🌱
 <br/>
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=FFFFFF"/>
 
 <!--
 **jihyeonjjang/jihyeonjjang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
