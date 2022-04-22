@@ -4,7 +4,8 @@
 <a href="https://jihyeonjjang.github.io/"><img src="https://img.shields.io/badge/GitHub Blog-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 
 🔭Working🔭
-<a href="https://github.com/SONSU-2022"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
+<br/>
+<a href="https://github.com/SONSU-2022"><img src="https://img.shields.io/badge/SONSU-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 
 
 🌱Learing🌱
