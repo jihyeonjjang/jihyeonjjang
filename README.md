@@ -5,7 +5,7 @@
 
 🔭Working🔭
 <br/>
-<a href="https://github.com/SONSU-2022"><img src="https://img.shields.io/badge/SONSU-181717?style=flat&logo=GitHub&logoColor=white"/></a>
+<a href="https://github.com/SONSU-2022"><img src="https://img.shields.io/badge/SONSU-lightgrey?style=flat&logo=GitHub&logoColor=white"/></a>
 
 
 🌱Learing🌱
