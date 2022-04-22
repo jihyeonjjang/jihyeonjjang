@@ -3,6 +3,7 @@
 <a href="https://velog.io/@jihyeon9975"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat&logo=Velog&logoColor=white"/></a>
 <a href="https://jihyeonjjang.github.io/"><img src="https://img.shields.io/badge/GitHub Blog-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 
+
 🌱Studying🌱
 <br/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=FFFFFF"/>
