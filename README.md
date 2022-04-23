@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=FFFFFF"/>
 
 ⚡Skills⚡
+<br/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=FFFFFF"/>
 
 <!--
