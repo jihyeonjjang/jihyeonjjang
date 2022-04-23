@@ -7,12 +7,12 @@
 <br/>
 <a href="https://github.com/SONSU-2022"><img src="https://img.shields.io/badge/SONSU-lightgrey?style=flat&logo=GitHub&logoColor=white"/></a>
 
-
 🌱Learing🌱
 <br/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=FFFFFF"/>
 
-
+⚡Skills⚡
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=FFFFFF"/>
 
 <!--
 **jihyeonjjang/jihyeonjjang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
