@@ -15,6 +15,8 @@
 <br/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=FFFFFF"/>
 
+<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyeonjjang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
