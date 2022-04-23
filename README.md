@@ -16,9 +16,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=FFFFFF"/>
 
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyeonjjang)](https://github.com/jihyeonjjang/github-readme-stats)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihyeonjjang&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihyeonjjang&theme=swift&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 
 <!--
 **jihyeonjjang/jihyeonjjang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
