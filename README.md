@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=FFFFFF"/>
 
-<br/><br/>
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyeonjjang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
