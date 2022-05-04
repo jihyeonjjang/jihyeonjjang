@@ -2,8 +2,6 @@
 
  <a href="https://github.com/jihyeonjjang"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihyeonjjang&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://velog.io/@jihyeon9975"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat&logo=Velog&logoColor=white"/></a> <a href="https://jihyeonjjang.github.io/"><img src="https://img.shields.io/badge/GitHub Blog-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 <br/>
-<br/>
-
 
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jihyeon9975)](https://solved.ac/jihyeon9975) -->
 
@@ -21,14 +19,9 @@
 
 ⚡Skills⚡
 <br/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=FFFFFF"/>
 
 <br/>
 
