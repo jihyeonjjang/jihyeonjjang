@@ -1,4 +1,4 @@
-### Hello, I'm JiHyeon Jang!👋
+### Hello World! I'm JiHyeon Jang👋
 
  <a href="https://github.com/jihyeonjjang"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihyeonjjang&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://velog.io/@jihyeon9975"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat&logo=Velog&logoColor=white"/></a> <a href="https://jihyeonjjang.github.io/"><img src="https://img.shields.io/badge/GitHub Blog-181717?style=flat&logo=GitHub&logoColor=white"/></a>
  
@@ -25,7 +25,7 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyeonjjang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyeonjjang&layout=compact)](https://github.com/jihyeonjjang/github-readme-stats)
 
   
 <!--
