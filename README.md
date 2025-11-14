@@ -9,9 +9,9 @@
 ## 🔭 Projects
 
 ###  iOS 
-  
+
 <a href="https://github.com/ESTiOSAI/iCo"><img src="https://img.shields.io/badge/iCo-3B83FF?style=flat&logo=GitHub&logoColor=white"/></a>
-<a href="https://github.com/TeddKo/PickaView"><img src="https://img.shields.io/badge/PickAView-8C00FF?style=flat&logo=GitHub&logoColor=white"/></a>
+<a href="https://github.com/jihyeonjjang/PickaView"><img src="https://img.shields.io/badge/PickAView-8C00FF?style=flat&logo=GitHub&logoColor=white"/></a>
 <a href="https://github.com/ESTiOSAI/iCo"><img src="https://img.shields.io/badge/지갑 속 하루-CF8E52?style=flat&logo=GitHub&logoColor=white"/></a>
   
 ### 🧩 Other (etc.)
